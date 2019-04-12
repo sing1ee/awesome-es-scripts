@@ -7,3 +7,4 @@ awesome query DSL and code snippet of ElasticSearch
 3. [ES编辑距离](es-edit-distance.md)
 4. [如何使用ES实现匹配命中与否](constant_score.md)
 4. [match_phrase设置slop需要注意的](match_phrase_slop.md)
+4. [为什么有的时候docFreq和docNum不对](docfreq_docnum.md)
